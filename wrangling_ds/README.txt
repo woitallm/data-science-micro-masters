@@ -10,4 +10,4 @@ use of separate() and unite() for col names who are mult variables (eg 1960_fert
 
 setequal() will return T/F if the two sets are equal, regardless of order
 check setdiff() and union() and intersect()
-the above are for vectors by base, but apply to df w/ dplyr loaded
+the above are for vectors by Rbase, but apply to df w/ dplyr loaded
